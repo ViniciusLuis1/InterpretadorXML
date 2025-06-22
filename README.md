@@ -27,12 +27,12 @@ Um analisador léxico, sintático e semântico construído em Python para valida
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+    git clone https://github.com/ViniciusLuis1/InterpretadorXML.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd NOME-DO-REPOSITORIO
+    cd InterpretadorXML
     ```
 
 3.  **Instale as dependências:**
@@ -68,4 +68,4 @@ Um analisador léxico, sintático e semântico construído em Python para valida
 
 ## Autor
 
-* **Vinícius Luis de Oliveira Pereira** - [SEU-USUARIO-DO-GITHUB](https://github.com/SEU-USUARIO-DO-GITHUB)
+* **Vinícius Luis de Oliveira Pereira e Gabriel Spatti** 
