@@ -45,9 +45,12 @@ Um analisador léxico, sintático e semântico construído em Python para valida
 
     ```bash
     # Exemplo com um arquivo válido
-    python main.py nfe_final_valido.xml
+    python main.py nfe_teste.xml
 
-    # Exemplo com um arquivo inválido
+    # Exemplo com um arquivo com sintaxe invalida
+    python main.py nfe_final_sintaxe_invalida.xml
+
+    # Exemplo com um arquivo com semantica invalida
     python main.py nfe_final_semantica_invalida.xml
     ```
 
